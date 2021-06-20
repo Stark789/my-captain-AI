@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# Python Program to Print Positive Numbers in a List
+#Python Program to Print Positive Numbers in a List
 
 NumList = []
 
